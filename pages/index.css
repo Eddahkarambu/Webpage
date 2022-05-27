@@ -128,3 +128,60 @@
     margin-right: 20px;
 
 }
+
+.partfour{
+    display: flex;
+    justify-content: center;
+    background-color:#3882f6;
+    margin: 0;
+    margin-top: 40px;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+}
+.call{
+    font-weight: bold;
+    color: white;
+}
+.sign{
+    color: white;  
+
+}
+.up{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-color: white;
+    border-radius: 5px;
+    padding: 5px 15px;
+   
+}
+
+.everything{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding: 30px;
+    margin: auto;
+}
+
+.partfive{
+    background-color:#1F2937;
+    width: 80%;
+    /* padding: 30px; */
+    margin: auto;
+    margin-top: 40px;
+    /* margin-bottom: 30px; */
+}
+.copy{
+    justify-content: center;
+    display: flex;
+    color: #F9FAF8;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.lastpart{
+    font-weight: bold;
+    font-size: 25px;
+    justify-content: center;
+    display: flex;
+}
